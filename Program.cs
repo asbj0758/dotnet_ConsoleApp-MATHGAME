@@ -14,3 +14,9 @@ using MathGame;
 MathGameLogic game = new MathGameLogic();
 
 game.StartGame();
+
+/*
+BACKLOG
+ - Add levels (easy, medium, hard) with different ranges of numbers
+ - Add a timer for each question
+*/
